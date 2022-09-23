@@ -1,0 +1,6 @@
+name = "lapce-svelte"
+version = "0.1.0"
+author = "Tiago Dinis"
+display-name = "Svelte"
+description = "Svelte LSP for lapce"
+wasm = "bin/lapce-svelte.wasm"
